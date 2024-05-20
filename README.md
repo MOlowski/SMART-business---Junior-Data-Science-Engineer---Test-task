@@ -12,7 +12,8 @@ Interview tasks submit
 4. Tasks submit is in Tasks.ipynb file
 ## Screenshots
 Forecasted sale
-![App Screenshot](https://raw.githubusercontent.com/MOlowski/task/main/media/sale_forecast.png?token=GHSAT0AAAAAACSHKVHP4COCNT3YBC6VJOY6ZSLVTMA)
+![best_selling_products_with_category](https://github.com/MOlowski/task/assets/105279597/c70a4e00-6876-4953-afb1-c0b4a2210579)
+
 ![App Screenshot](https://raw.githubusercontent.com/MOlowski/task/main/media/correlation_between_daily_sales_and_other_values.png?token=GHSAT0AAAAAACSHKVHPD7FSVAJ5LYEVGIA6ZSLVSSQ)
 ![App Screenshot](https://raw.githubusercontent.com/MOlowski/task/main/media/best_selling_products_with_category.png?token=GHSAT0AAAAAACSHKVHO6RRZDUGNZL5YW4LIZSLVR7Q)
 ![App Screenshot](https://raw.githubusercontent.com/MOlowski/task/main/media/best_turnover_for_each_category.png?token=GHSAT0AAAAAACSHKVHPSU5WMJNPPOLHSVSCZSLVSHQ)
